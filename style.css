@@ -5,7 +5,7 @@
 }
 
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("1.jpg");
+	background-image: url("1.jpg");
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -18,34 +18,7 @@ header{
 	background-position: center;
 	padding-top:20px;
 }
-.faci {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("our-facilities.jpg");
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-	padding-top:20px;
-}
-.gall {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("gallery.jpg");
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-	padding-top:20px;
-}
-.camp {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("camp.jpg");
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-	padding-top:20px;
-}
-.contact {
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("contact.jpg");
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-	padding-top:20px;
-}
+
 
 ul{
 	float: right;
@@ -78,7 +51,7 @@ ul li.active a{
 
 .logo img{
 	float: left;
-	width: 100px;
+	width: 50px;
 }
 .ul li::after{
 	content: '';
@@ -102,6 +75,102 @@ ul li a:hover::after{
 	transform: translate(-50%,-50%);
 	text-align: center;
 }
+.text-gray-600 {
+    --tw-text-opacity: 1;
+    color: rgba(75,85,99,var(--tw-text-opacity));
+}
+.py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.px-5 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.w-full {
+    width: 100%;
+}
+.flex {
+    display: flex;
+}
+.mb-20 {
+    margin-bottom: 5rem;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.flex {
+    display: flex;
+}
+.-m-4 {
+    margin: -1rem;
+}
+
+.xl\:w-1\/4 {
+    width: 25%;
+}
+.p-6 {
+    padding: 1.5rem;
+}
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(243,244,246,var(--tw-bg-opacity));
+}
+.p-6 {
+    padding: 1.5rem;
+}
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(243,244,246,var(--tw-bg-opacity));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 .text-box h1{
 	font-size: 62px;
@@ -149,62 +218,6 @@ ul li a:hover::after{
 }
 
 
-.facilities-sty {
-	margin: 30px 0;
-	background-image: url("pink.jpg");
-}
-.facilities-sty h3 {
-	color: #fe4705;
-    font-weight: bold;
-	text-align: center;
-}
-.facilities-sty p {
-	text-align: center;
-}
-.facilities-sty ul {
-	float: none;
-}
-.facilities-sty ul li {
-	    background: url(right-arrow.png) no-repeat left center;
-    padding-left: 23px;
-    margin-bottom: 10px;
-    display: block;
-}
-
-.gallery-sty {
-	margin: 60px 0;
-}
-.gallery-sty h3 {
-	color: #fe4705;
-    font-weight: bold;
-	text-align: center;
-	margin-bottom:25px;
-}
-.gallery-sty img {
-	margin-bottom:20px;
-}
-
-.campus-sty {
-	margin: 30px 0;
-}
-.campus-sty h3 {
-	color: #fe4705;
-    font-weight: bold;
-	
-}
-.campus-sty p {
-	text-align: center;
-}
-
-
-.contact-sty {
-	margin: 30px 0;
-}
-.contact-sty h3 {
-	color: #fe4705;
-    font-weight: bold;
-	
-}
 
 
 /* Footer Style */
