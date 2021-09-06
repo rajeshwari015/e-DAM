@@ -11,6 +11,14 @@ header{
 	background-position: center;
 	padding-top:20px;
 }
+.join-banner{
+	background-image: url("join us.jpg");
+	height: 85vh;
+	background-size: cover;
+	background-position: center;
+	padding-top:20px;
+}
+
 .about {
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("about us.jpg");
 	height: 100vh;
