@@ -228,7 +228,10 @@ ul li a:hover::after{
     margin: 0;
 }
 @media screen and (max-width: 480px){
-   
+   .banner-logo-sty img {
+    padding: 186px 0;
+    display: none;
+}
 }
 	
 
