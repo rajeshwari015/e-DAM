@@ -232,6 +232,14 @@ ul li a:hover::after{
     padding: 186px 0;
     display: none;
 }
+   .text-box h1 {
+    font-size: 50px;
+}
+  .text-box {
+    padding-top: 0 !important;
+    color: #fff;
+    text-align: center;
+}
 }
 	
 
