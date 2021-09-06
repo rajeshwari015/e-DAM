@@ -141,6 +141,9 @@ ul li a:hover::after{
 	font-size: 21px;
     font-weight: bold;
 }
+.box-dep {
+	background:#fff;
+}
 
 
 
