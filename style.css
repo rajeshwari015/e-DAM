@@ -129,6 +129,18 @@ ul li a:hover::after{
     background-color: rgba(243,244,246,var(--tw-bg-opacity));
 }
 
+.dept-sty {
+	margin:30px 0;
+}
+.dept-sty h2 {
+	color: #a53ed6;
+    margin-bottom: 20px;
+}
+.dept-sty h3 {
+	font-size: 21px;
+    font-weight: bold;
+}
+
 
 
 
