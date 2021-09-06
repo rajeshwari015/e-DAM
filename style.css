@@ -147,8 +147,11 @@ ul li a:hover::after{
 	    min-height: 350px;
 }
 .banner-logo-sty img {
-	padding: 250px;
-}
+	padding: 200px;
+    padding-top: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+    padding-left: 200px;
 
 
 .text-box h1{
