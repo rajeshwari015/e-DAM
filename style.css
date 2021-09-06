@@ -146,50 +146,11 @@ ul li a:hover::after{
     margin-bottom: 20px;
 	    min-height: 350px;
 }
+.banner-logo-sty img {
+	padding:130px 0;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
 .text-box h1{
 	font-size: 62px;
 }
